@@ -1,7 +1,7 @@
 {
-  "name": "AFK",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "Siempreactivo",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalote"
+      "password": "chalol78"
     },
     "anti-afk": {
       "enabled": true,
